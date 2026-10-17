@@ -1,0 +1,7 @@
+{
+  "status": "calibrated",
+  "q_contact": 734.5,
+  "q_free": 748.0,
+  "alpha": 0.05,
+  "method": "ARCP-Mondrian"
+}
