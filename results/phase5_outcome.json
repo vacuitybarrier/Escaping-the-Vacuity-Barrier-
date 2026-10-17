@@ -1,0 +1,8 @@
+{
+  "status": "evaluated",
+  "gate_abstention_verified": true,
+  "w_hat_q_contact": 2077.5,
+  "tau_task": 100.0,
+  "verdict": "CONFOUND",
+  "description": "Unconditional gate abstention triggered due to high latent-cost exploitability confounds."
+}
