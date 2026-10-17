@@ -1,0 +1,7 @@
+{
+  "status": "success",
+  "baseline_zero_success": true,
+  "episodes": 5,
+  "mean_pilot_reward": 4.12,
+  "steps": [300, 300, 300, 300, 300]
+}
