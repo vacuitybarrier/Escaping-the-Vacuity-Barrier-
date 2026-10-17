@@ -1,0 +1,7 @@
+{
+  "status": "completed",
+  "p1_decoder_transfer": "failed_reconstruction_bounds",
+  "latent_dim": 128,
+  "mse_pose": 0.342,
+  "interpretation": "Pure projector training without reconstruction bounds discards decodable pose information."
+}
